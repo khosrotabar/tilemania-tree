@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8f63da139e800424f8c860f0e5c92347
+guid: 664a18c37dc9349e99f14b0f165412b2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7733179201971891346
-    second: SPA_Ladder_0
+      213: -8733665841948686818
+    second: 21. TileVania Three Mushroom.jpg (0.0009765625 Mb)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -56,7 +56,7 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: 0
+  spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -100,37 +100,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPA_Ladder_0
+      name: 21. TileVania Three Mushroom.jpg (0.0009765625 Mb)_0
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 0
-        width: 24
-        height: 32
+        width: 32
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: 6, y: -1}
+        - {x: 14, y: -1}
+        - {x: 14, y: 7}
+        - {x: 8, y: 13}
+        - {x: -9, y: 13}
+        - {x: -14, y: 6}
+        - {x: -14, y: -1}
+        - {x: -6, y: -1}
+        - {x: -5, y: -15}
+        - {x: 5, y: -15}
+      tessellationDetail: 0
       bones: []
-      spriteID: e63d60aec7a3ea490800000000000000
-      internalID: -7733179201971891346
+      spriteID: e168faf8039cbc680800000000000000
+      internalID: -8733665841948686818
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
     customData: 
-    physicsShape:
-    - - {x: 9, y: 16}
-      - {x: -9, y: 16}
-      - {x: -9, y: -16}
-      - {x: 9, y: -16}
+    physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: 9472fb66e63fd4446b2b100c71b433d7
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -139,7 +145,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPA_Ladder_0: -7733179201971891346
+      21. TileVania Three Mushroom.jpg (0.0009765625 Mb)_0: -8733665841948686818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
